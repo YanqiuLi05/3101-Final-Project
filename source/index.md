@@ -1,9 +1,9 @@
 ---
-title: Project Documentation
+title: Final Project Documentation
 layout: base.html
 ---
 
-<h1>Project Documentation</h1>
+<h1>Final Project Documentation</h1>
 
 <div class="home-image">
   <img src="/images/home.jpg" alt="Project overview image">
