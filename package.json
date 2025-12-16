@@ -3,7 +3,7 @@
   "scripts": {
     "serve": "eleventy --serve",
     "build": "eleventy",
-    "build:gh": "eleventy --pathprefix=3101-final-project"
+    "build:gh": "eleventy --pathprefix=3101-Final-Project"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2"
